@@ -1,580 +1,305 @@
 {
   "Servers" : [ {
     "Category" : 0,
-    "DomainOrIP" : "viber.com.premium1.zero-vpn.xyz",
+    "DomainOrIP" : "syd-api.twitter.com.premsg1.zero-vpn.xyz",
     "Flag" : "sg",
-    "Name" : "PREMIUM SG 1"
+    "Name" : "PREM GIGA SG 1"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium2.armatelco-vpn.xyz",
+    "DomainOrIP" : "syd-api.twitter.com.premsg2.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg3.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg4.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 4"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg5.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 5"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg6.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 6"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg7.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 7"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg8.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 8"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg9.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 9"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg10.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 10"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip1.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 1"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip2.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 2"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip3.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 3"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip4.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 4"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip5.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 5"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip6.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 6"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip7.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 7"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip8.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 8"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip9.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 9"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip10.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 10"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv1.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv2.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv3.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 3"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv4.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 4"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv5.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 5"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv6.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 6"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv7.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 7"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv8.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 8"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv9.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 9"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv10.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 10"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.prem1.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.prem2.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PREMIUM SINGAPORE 2"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium3.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.prem3.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PREMIUM SINGAPORE 3"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium4.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.prem4.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PREMIUM SINGAPORE 4"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium5.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.prem4.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PREMIUM SINGAPORE 5"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium6.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.prem6.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PREMIUM SINGAPORE 6"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium7.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM SINGAPORE 7"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium8.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.prem8.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PREMIUM SINGAPORE 8"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium9.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.prem9.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PREMIUM SINGAPORE 9"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium10.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.prem10.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PREMIUM SINGAPORE 10"
   }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium11.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "ARMTELCO 1"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium12.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "ARMTELCO 2"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium13.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "ARMTELCO 3"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium14.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "ARMTELCO 4"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium15.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "ARMTELCO 5"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium16.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "ARMTELCO 6"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium17.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "ARMTELCO 7"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium18.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "ARMTELCO 8"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium19.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "ARMTELCO 9"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.premium20.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "ARMTELCO 10"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api.twitter.com.premium1.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM GIGASTORIES 1"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api.twitter.com.premium2.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM GIGASTORIES 2"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api.twitter.com.premium3.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM GIGASTORIES 3"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api.twitter.com.premium4.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM GIGASTORIES 4"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api.twitter.com.premium5.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM GIGASTORIES 5"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api.twitter.com.premium6.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM GIGASTORIES 6"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api.twitter.com.premium7.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM GIGASTORIES 7"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api.twitter.com.premium8.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM GIGASTORIES 8"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api.twitter.com.premium9.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM GIGASTORIES 9"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api.twitter.com.premium10.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM GIGASTORIES 10"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip1.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP SG 1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip2.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP SG 2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip3.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP SG 3"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip4.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP SG 4"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip5.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP SG 5"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip6.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP SG 6"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip7.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP SG 7"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip8.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP SG 8"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip9.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP SG 9"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip10.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP SG 10"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api.twitter.com.vip1.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP GIGASTORIES 1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api.twitter.com.vip2.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP GIGASTORIES 2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api.twitter.com.vip3.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP GIGASTORIES 3"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api.twitter.com.vip4.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP GIGASTORIES 4"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api.twitter.com.vip5.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP GIGASTORIES 5"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api.twitter.com.vip6.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP GIGASTORIES 6"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api.twitter.com.vip7.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP GIGASTORIES 7"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api.twitter.com.vip8.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP GIGASTORIES 8"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api.twitter.com.vip9.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP GIGASTORIES 9"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api.twitter.com.vip10.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "VIP GIGASTORIES 10"
-  }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private1.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.privsg1.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PRIVATE SINGAPORE 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private2.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.privsg2.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PRIVATE SINGAPORE 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private3.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.privsg3.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PRIVATE SINGAPORE 3"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private4.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.privsg4.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PRIVATE SINGAPORE 4"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private5.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.privsg5.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PRIVATE SINGAPORE 5"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private6.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.privsg6.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PRIVATE SINGAPORE 6"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private7.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.privsg7.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PRIVATE SINGAPORE 7"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private8.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.privsg8.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PRIVATE SINGAPORE 8"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private9.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.privsg9.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PRIVATE SINGAPORE 9"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private10.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.privsg10.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PRIVATE SINGAPORE 10"
   }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private1.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE GIGASTORIES 1"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private2.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE GIGASTORIES 2"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private3.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE GIGASTORIES 3"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private4.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE GIGASTORIES 4"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private5.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE GIGASTORIES 5"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private6.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE GIGASTORIES 6"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private7.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE GIGASTORIES 7"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private8.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE GIGASTORIES 8"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private9.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE GIGASTORIES 9"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private10.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE GIGASTORIES 10"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private11.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE HEARTY 1"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private12.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE HEARTY 2"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private13.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE HEARTY 3"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private14.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE HEARTY 4"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private15.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE HEARTY 5"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private16.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE HEARTY 6"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private17.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE HEARTY 7"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private18.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE HEARTY 8"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private19.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE HEARTY 9"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private20.armatelco-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PRIVATE HEARTY 10"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.ph1.armatelco-vpn.xyz",
-    "Flag" : "ph",
-    "Name" : "PRIVATE PH 1"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.ph1.armatelco-vpn.xyz",
-    "Flag" : "ph",
-    "Name" : "PRIVATE PH 2"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.privateph1.armatelco-vpn.xyz",
-    "Flag" : "ph",
-    "Name" : "PRIVATE PH GIGASTORIES 1"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.privateph1.armatelco-vpn.xyz",
-    "Flag" : "ph",
-    "Name" : "PRIVATE PH GIGASTORIES 2"
-  }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip1.zero-vpn.xyz",
-    "Flag" : "us",
-    "Name" : "VIP USA 1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip2.zero-vpn.xyz",
-    "Flag" : "us",
-    "Name" : "VIP USA 2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip3.zero-vpn.xyz",
-    "Flag" : "us",
-    "Name" : "VIP USA 3"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip4.zero-vpn.xyz",
-    "Flag" : "us",
-    "Name" : "VIP USA 4"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip5.zero-vpn.xyz",
-    "Flag" : "us",
-    "Name" : "VIP USA 5"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip6.zero-vpn.xyz",
-    "Flag" : "us",
-    "Name" : "VIP USA 6"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip7.zero-vpn.xyz",
-    "Flag" : "us",
-    "Name" : "VIP USA 7"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip8.zero-vpn.xyz",
-    "Flag" : "us",
-    "Name" : "VIP USA 8"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip9.zero-vpn.xyz",
-    "Flag" : "us",
-    "Name" : "VIP USA 9"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip10.zero-vpn.xyz",
-    "Flag" : "us",
-    "Name" : "VIP USA 10"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip11.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vipsg1.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "VIP SINGAPORE 1"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip12.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vipsg2.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "VIP SINGAPORE 2"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip13.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vipsg3.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "VIP SINGAPORE 3"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip14.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vipsg4.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "VIP SINGAPORE 4"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip15.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vipsg5.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "VIP SINGAPORE 5"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip16.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vipsg6.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "VIP SINGAPORE 6"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip17.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vipsg7.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "VIP SINGAPORE 7"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip18.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vipsg8.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "VIP SINGAPORE 8"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip19.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vipsg9.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "VIP SINGAPORE 9"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip20.armatelco-vpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vipsg10.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "VIP SINGAPORE 10"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.prem001.zero-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM EXODUS 1"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.prem002.zero-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM EXODUS 2"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.prem003.zero-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM EXODUS 3"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.prem004.zero-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM EXODUS 4"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.prem005.zero-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM EXODUS 5"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.prem006.zero-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM EXODUS 6"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.prem007.zero-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM EXODUS 7"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.prem008.zero-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM EXODUS 8"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.prem009.zero-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM EXODUS 9"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.prem0010.zero-vpn.xyz",
-    "Flag" : "sg",
-    "Name" : "PREMIUM EXODUS 10"
   } ],
   "Payloads" : [ {
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "IsoaIdboICQ57U6ygTfGkkm6Qk+gPHkvxIJlRkhfuVY=",
+    "Host" : "O9QNj7QZmOyLP3jKJ/IphKKKH2Ge5ByX68L1s3aK/VE=",
     "Name" : "NEW SUN TU/CTC 1",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -587,7 +312,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "oGZyAiE/GMBPQsY8U3W2sWifcruq6BadG0mLei27358=",
+    "Host" : "Rj/55u2TlL/apO1/nlZ+lx7huD07KMhRJfFUOQsIGEY=",
     "Name" : "NEW SUN TU/CTC 2",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -600,7 +325,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "JcxA4bxeTIg8+q2W1WsNllpXNCs0pjjFv4m8MfZ/JRk=",
+    "Host" : "Hk/5VnF413LVKCdGiHycVRAPXnWpRBDRcqLdWXTL45I=",
     "Name" : "NEW SUN TU/CTC 3",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -613,7 +338,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "8+/DbFgnDajweZ7iWXcqi/jVC+Qb5TD7yRublieLOkp1Ab+r6J5JgDECMX04oeT8g1A8tFRkiOfR485DwYswkA==",
+    "Host" : "FuARRBDz/4PzmIc0BvTzFEfdIAat75IssUx1z8Kn2cUTOrMAApbG9Cqk+p+j6MsdljJLbO9IPdgAhE9Mizt53g==",
     "Name" : "SUN PLAN ULTIMATE 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -626,7 +351,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "ZyXyXqHmDFR41TiLNAnNFV3PAGfO/mopenarCWFM98sh+VGuTiWcIA/kuvfxwbubd0fSaox5kpX17Q4d0kgRhA==",
+    "Host" : "FqHoOMkc7GBkl95JT2Z/JxPpBbs/N4j6MluUkjnw7frTpi57iu6kTwClf6OQ/g7XUFBsKbUjuidxyozT9hWx8g==",
     "Name" : "SUN PLAN ULTIMATE 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -639,7 +364,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "xZNhbFAM3AeVpceAWozZaC4DgW8hTZWeCIvrI0CJq28DhXhxTwu49QAy9hWbaeaWGOq/raoBeSWqmlIn2pXr5Xzd0dFAT6FWYQM5P1YcWucSXFjySkriz/Adgdilckmx",
+    "Host" : "QeIVhFEkRu5wmDpICHYPTJJe734DEP3fzaip7TmxON+X8HCo6MODNqfj1AUR52mswWF247IRIss4+gFdnH+P1CkstUSfPWPSpLgmlOmgOG+2lpdo5QMs2Swjhu/B7X+n",
     "Name" : "SUN PLAN ULTIMATE 3",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -652,7 +377,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "5WKJwJVDmmwfe/hodM/h4Ywc546rOHVK2F9YX6Ptcv5vZbB7AFy/DVv84A91mDSvNmxH8zkpKy8WwBMR+9b3nQ2Z4NrMB+sqx5crRAbYkeY=",
+    "Host" : "J2m5w/yOd/UrDavgy7r2GSKRNOhIXtdugIDOKdQ9W7jNtiYySfzGtFtJEXfzRgMVJosgCR+28r2uvnjt6KmjM6v900QM9aLGpLLfh48VPH0=",
     "Name" : "SUN PLAN ULTIMATE 4",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -665,7 +390,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "2UDmOf0oYSx1vK69eIZjOOren5JM8TxmZcwENUL0c2JgSXdsNFMgwS0P75C3nV+ZimnjVHh+B9QE1AkvO/Skog==",
+    "Host" : "uzAOfuMAOxMLWpEm9ju+GckrVEdJEbg9bBQ/PfYPgMfukT4iEMmSQZRpYBfonVkA+OwLpTs8uh2RjDfn39JrYQ==",
     "Name" : "GTM GOWATCH PROMO 1",
     "OnlineHost" : true,
     "Port" : 8000,
@@ -678,7 +403,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "hI0WfYiq3QbrV6XdZP2P0H3cS1HfaDDRJQECzuiNNXW8V9VdP6DEf3pvX1oRYP4hjqjWL8hsRvq3aO6c9yqTgAQp+JAJUmavS8gZlVByhkJgotoHRn95PUuCTqiz7Zpz38ZaVo6Fw9P2ZzZYN/g4znrIrpkPSLMb48tChyvqx10162Hd7UiJd57dUD9yfAGvRgfdrXQ5U5XHl63jioqFJICiCZwEvv4lDqQcqn05H7neqXtAsmNSw17M9Ch+VsIFyBYFRLusstVuLW2Srn/U5CaFher4ijpH8ytIKD1xiAFf9MAf1a4jmjvr+YVZCT4quUhCvalScVB4C8RbDyv2XVnriH73vE2D+t/ZQK6dj4T8iDV24xmmHXQ5H/6M2XsiX0GXnTGnZeUu1GP4X4kEt8HXUxPNIahQpGFGWkZgQKfeXTj2mWlHY0yURPwwbQ2+O3OAhQRuLy7/Damo0tLLwo68Zfk4vIYS1K8eoYGgw+n4y8ac7vhSDwKYWgt84nhk2bnIwtgL0/HyxhzkrEqIElH8Z36HspIRzWf6hMarsUelMDdSMi2snsvwuiG56FylBtTV6qd/RjOQNnvbtLYovcUde7i82ioamXP4jqc0pNk=",
+    "Host" : "3wlcqOEm8R3Hwq6OVHbc3a29aoRIIy2f+6W87hzmevycyyLI1wi31+NKYbFKYmVAHRiNE8QOeyTl2TU5m9xp5kh0IaVzh8Tpd6/1xN67eSIZR/MqfrZRL4pLIrXMYuU9TFbNXvy2y6UpfJFvy+AWBbNNwz+GltjxOTLhdnZ63yVUp6YVHTrpEX669oCQac5M7UdRSrEG/2RapS1SErJgSIx6K0pXzbGKgt0OJP+ksd1cSKbO4naKD7CLLaPVIY2nsEbsPCgfk0xx2cG3tAFdUk3sgOHlsjCZOKAn549z31HhqpXas+r6e5KKQ1gS/OWy4zWcTgio/ZPpkLh+s2brWwXC5sczb9XrBhe49HG+Cbh0afa10e9wM6Qo1jeYPa3/JNM1fsoK2glfqD6v+L5jsSt6v9NWbHzCKWR6D1ShADboaMzN4KwxuYRpm+baAyAm4OuwNH+mK6O/qtdzLJ8KDpUzH5xczMutp2J1vBsbugkDPPqFKYWOTyE/aHvfwPoy98+Ov0+DWsf4blo6bW8aG0jSPw+97wzMeaexsFjt0HXgoyK5vSm7pkdqAYo3rNxPyKhE8b5oh4bGwC+XKALB2tsp81SYpDS9+Sj2+QsRR0M=",
     "Name" : "GTM GOWATCH PROMO 2",
     "OnlineHost" : true,
     "Port" : 8888,
@@ -691,7 +416,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "WZ1Yd42UgEgVx63WvR2DG8xE+N/xLrj/RuTyHm6xq6mvZ2ZpBHrB1Gv79jaKlKU4r8XW29q2GNQrzrXiW5vMilZbyKEnLoNGdOJzgCF7j47Bq1xD+bFKKmrhzR/9R2UMpnRw5RMaxL6zpUCSRJpvEqfg10qrAOTQS4+KScCisNXSYFwBR+sjg0SE/eGXCLT16dLEbhK5oc1ebdDcM0Zj4x3+TTPENrlP18OWB0ILw57NKdk7jnCMDf8nmGiqhiZxO6nUCTAmWEsnCU2Usjhc47ttz6EJ70BrB5KRxflmOrKdrSZbHq9ARvxYP0+afd4GT/gOnqzWiDU7t9RM+1jF2sscTxnHmvZAoeqUM5GOqnv75EWM2ImR/YsbUoJDBjWEaHzo6ax4n3pGdxTi13KyWQrHnOj/6gvP8zpG734LHJY3ncXepXSiQ7r0i/wyImd6YkswoB7WApBhn766tuKb3NhvFEXU7LLbvUc1x060gvcgKsM0aK4mgtrzm7uaDo2I/lRwFZFy3xm849CsKCOHjih0nz3nZkZVGn0a/RoLkNBovWJ+5wy/5q4JplK5Gd1IyihjqpBqD5Uc5y+zbwtx6RVfgJqjL0VWGwHeIxV6s4I=",
+    "Host" : "mediMJHvy5PK3kXysNfgYN82Wt7CxIJxRrPbGeA0xVTcvxZOSPg8Oa1u+Osv9HKpUYk2jB8MBUYopej2q1ZVxL1zm/IiJOdJv6Ku3uqDvDAu+puTTdEviuMHnlcsRODbAIZtPhkReFFyElL6+qfxxx0t7VHW1ZoySHGSzQKE7cvQT42XErUjHsGFHJVkE1ac6/npIe6ZeLPPtxrQF0Ctf7xuYQktK7tRPSgD7nb37O/frTAbZii6cuVlURktzWPIRxi/8Fz+c0zwgiuWHpyidTpMxy+YW8f0oYucKTDnmAH1gyn/MdZM2areIQQ8RUZWHFyDWhPsmopwleTQk2tke0NThXS+d7CKhpBtBOMTz3sHOQRPKgPADZ3H8K5sezX224bOtv3LF86xVNUv6/zAX7XGLUt+Bj+Kcv3vFRg4oPce+3yeJuQKAZDkHBaT1MLjkw4VMad+aq4s5PJ8eALwCwMIgxEAGrpYUMMFaZWkor422dD8EH2i066B7Tnl7izVyxtzixUrIWsFb3F5tIyEiLE259EcWzZ0fdUPDLthAK/B14fwNn+EjfAhoowPXzdTu8bjWFnKUNYyTiT7maY4Koqjs4OehSZDuYuIajBcWpc=",
     "Name" : "GLOBE or TM PROMO 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -704,7 +429,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "XyO38mrsXv9IwAEw2FqwW9mPeQKVnTzTGG6rJjAlom99n5RR9W4lPfdc3V82inWp",
+    "Host" : "vy6hh+uDPUFqONgZku4zQk3eIrCgaAeqa9KMmit3GN8haRpqTT+aa/Q2SaqttU82",
     "Name" : "GLOBE or TM PROMO 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -717,7 +442,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "geuLr+9hEJl73TgTgcQ1nLb3d8Wk9gcqw6svjoJu4nmIUwrMqE7QiwC+4QHr5Z2b",
+    "Host" : "53LU/T8XEAr3cEMyqdZnB1IlOpFlP/6sdbFWZ3ciEu9JIr2qMvAd17M6TMkZFmTM",
     "Name" : "NEW SUN/SMART PROMO",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -730,7 +455,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "p9/C5xkWnJJparBpRi/IJ2REUpjzjCfSweDVBMzweEC+wjc3YYdqGpp4ncK4k+xxB+TkKSVPxRsn2mv5jJmCYA==",
+    "Host" : "BvvtZEt41r1BqJfbErWSMjwnZlJzW0TXLEv6VLNG6Nt6zZtnNTshPy6Hk8/Fx56U4Wqvz/GZNeCoDORfAFSxCQ==",
     "Name" : "NEW SUN TU PROMO 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -743,7 +468,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "u55w02k2I0LOQDZ7vl4ijDzzonHpDIyGEEFey9yw3nKnM8FUj6M3Ayheh6uJg5hAo/aVuZru06WCU0JUGVrrpg05JqP6AV7cuVEjEX0JTYVAW8FkvjpqHBSlT9uLfi58",
+    "Host" : "TlyxPvvZfq4hO8ybvXuE0nmCMJQrUPX2lPeWa58yoPv//gl1ipNhi6SpjbmA0Ray8enLm+8EeuBIhg7urFi9HVOk2yZw4b021JlFbsvIhbH91noWPnwFnEqukcgrJ3Qg",
     "Name" : "NEW SUN TU PROMO 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -756,7 +481,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "KTFe7ysSb/nkg7iPGYlzTBnaMesK2gYPiptM+ZZMNT3Y2H3rF04xAyoRmBkSk6zl",
+    "Host" : "myplwxALwFhrzyWxNOlhN3SWJeaRdQ56Sjk3eqTWvoGxtqW4TVyXMh8iVbi4WnUo",
     "Name" : "GIGASURF PROMO 1",
     "OnlineHost" : true,
     "Port" : 8000,
@@ -769,7 +494,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "lGBl6W+zOYnztUNRK8LP2gIvixP0+RdibSoAHwm78ENBbYfQNgkeL7rABVk2/AyV",
+    "Host" : "wBswgfA0pIF9Sn+ueGB/CPC8QM9PuYaOH7TorWvcD9ozve/t8If3N+eqgb7+j8wl",
     "Name" : "GIGASURF PROMO 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -782,7 +507,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "2vnFnzfFh/vmJDX0LDe69bd21b+kruh/WotsvdlKQmv8TqI/WgMhqbEKqU6NheTM",
+    "Host" : "7X9Q2I5kD8eQ5CNVlCuvjveUTRs4Wqb8q/tsBTpUNXUhZEhDbNY89FrKsG/ZPFbf",
     "Name" : "GIGASURF PROMO 3",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -795,7 +520,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "saUCoBO1MP2txyIdGv7ICm4jgZzqr4QW5hcK4kJNWAFblIHWDRp144iOnoeikCgwbl5Qj793XsXKVXnMQJMB/jm4lGa1fXhnHY/GVi+Cr58=",
+    "Host" : "LetFKSJQKgYiWr8JJF42lKUFonNEH/VvB66HKfCtQQ0L0wxdS9+NosWS3HZygiHF5hUvzti4MSreUggpRQDn2DyNNoOBdMNBfiLceq3zRiU=",
     "Name" : "GIGASURF PROMO 4",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -808,7 +533,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "j+iJQykwUzOGXG9Qml3tyXHL9fC9YfwJcNHZhHMJj+/rSghXqU9uPDlPmcTKipxV+PiGuOgccOf11vntT58hf56GbT9zflJJWy7EXWDDuYV61sr7f12LNZuB5kjMFfP+",
+    "Host" : "zK0ycvN+HcVNq1c6p4intxJYAjmck3Tm6mCweaGHnbG6hZgq9wImX2sEe/s+jvY4b+cM5e13FwSa4kZZ4j6kuWmM9f+qt5AeNEkPLZsNjaDuKcfg0sL7YpVgQEgGViaz",
     "Name" : "SUN NO PROMO 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -821,7 +546,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "oXy5UXAWUkLIM1g1eVD8L7vFHr0MbaMhN/4GiaSvMb1W6YM3kMr6Wi6eJHkcJy3t",
+    "Host" : "Mo46wGsc5QVR14314PhdIETSvBZzKT4azgHqbNZ44BHGlnyTaLxNCaGuLYwqEmx5",
     "Name" : "SUN NO PROMO 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -834,7 +559,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "3vlIQt5wEQvDPutmCTglc7on7z9g0DXZ1oHOOHHA/RToJU3nXXxb1tgsfSolT5KQ",
+    "Host" : "q6nahAyDBd1TmlOpe0vdUz1jvQ+gb5jg7A8kD2kdliDLP7OOm1dR7rJ9cfoijv5H",
     "Name" : "SUN NO PROMO 3",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -847,7 +572,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "JT25vuJ+2bPhuwSB+i+eDSL2uS1G7ICX0aLbbZVNMQOvfQLCco5emx3DqzqM6RsLESIlz7ifhbKmWV2IFGHHWw==",
+    "Host" : "u9MkJDZcKJhJMaRaOaJOSU7Bfz2qR9ce76TildRdi4rcW3IsVpqVlZtbatE3xujco9T8OM/htVaGAX5EmJEC8g==",
     "Name" : "SUN PLAN/CTC/TU",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -860,7 +585,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "10UPnC5tzSk7c9qJu71tL8UKHfhpTgF1DYqD5yACagy1Mm0k5/NNP1fLYKCISo8Ir8mWqKhm1ZzDS3z8rm9UbQ==",
+    "Host" : "Xn4HTlF0uL2MI+19yiixr9lk4z9xPcE2eT0clxYBYYRhwWzCLWs4ZgxvC9MHWs+Ho5TNPsBPmcNsYVh9Y+QdCQ==",
     "Name" : "SMART/TNT PROMO 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -873,7 +598,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "5BP2tjZ+0rJtuVdtAGYxihlkwVb0bf+xrMCuiVTS5XdCDmAXFkDxrExTLIInHWqzVahXzdXtC7yjwdD18UUzJA==",
+    "Host" : "5HhI51AxXiJBb4fL+18f6fylgITDu9k2yNS8LHfkWv2v+hYjsq7OSZO2ZroMccsklnxpBb2MPsVYGmG2H2SWdA==",
     "Name" : "SMART/TNT PROMO 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -886,7 +611,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "p0v9psu1Z/zn8SpuXG7xjQSQ1wdeTCteeT/uOh8HvKqF/e8rO6H1wg9wAzTuUhfG",
+    "Host" : "IwG/pmDJV0yxxYe6d+xAzDN2u9PPzqaMIz2bMUdic1wT0BCl3KOatdyRvkpEKjhy",
     "Name" : "SUN TU200 PROMO 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -899,7 +624,7 @@
     "Format" : 2,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "VIx/G19CYTkFaFD3Hbf/hNzXLh8lfWBnEeGjc2161Lt22YJ6vybTnbJTomvLqyGM",
+    "Host" : "zlTyxhV7P0mRqPkSodHaXMyZOMe1nC/mmih5kaIixBZwORGla8mZfZjTHDuPNkKh",
     "Name" : "SUN TU200 PROMO 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -912,11 +637,11 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "gx3PewxtMFACOM04pu2qRxi+zxqYQ1b9kJewD4qQaEuSvECEPX6uSRWb/0L60iVpGi9V2005RZv2wa8vE6ZYp6+yKjISPxY7jOPKATXwKgg=",
+    "Host" : "B8OLzRG2zHRBoZ2PD5jOQtUOYknkQvl7EMosIsHjF7RVrSEbw3qnkfHp8ZGQ/RYYVgOJXPyLaI5u5scnd5OQQu5s0yQguMWEEWzI+Dkb390=",
     "Name" : "SMART AT10/60 PROMO",
     "OnlineHost" : true,
     "Port" : 8080,
-    "Proxy" : "5YyU0paoRUtVLRozvdPGFZVsRQ9jdbFqDsW3jLool7mXY8Lmo3/30hWEk7z6aRLY1rAiaWvu6VEz7EsDyflmN4GauxPpfLYF/gSKvodXpKgRqAw3HDPKvGw9BGfgyFh/fo7U5ePEbcEFX617iOeUaQ==",
+    "Proxy" : "ZQl090HL8G+AUh6pILB4cR0tN8hOMRRQgPokSYWAHZWgk+Jj9WLhci/cCEMfH/Vu/VVb7wwqIp9GptgP2itJYikBfo9gvoTIlaYiXgJMbcl9shGdSt7WqPQar6KXN2bm43RCJypj0iGwo8C9GV6znA==",
     "ReverseProxy" : false,
     "ShowText" : false,
     "Text" : "",
@@ -925,7 +650,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "/9PgWKsvp1LLbCXy3RAOKYLNIVnLq8rkoHCVK3SvhMe8pkWVJHffHDf64bxH0gbVgi7BxsiMBiGAulW6X6wNt5c8IkTC4t4Zj1yreIxiH0YO419Fz1cxCeWfE612mchlNGV840TFHHOVX3TPF7pXDA==",
+    "Host" : "+6mbK/kv1mJ8x9NzhlEdTIVAbANc/phLohHWczrd6CuD5WvCAUxjDnoo86uu8cIshhP0rX4jh4NQHL+Cx5da5tcUzfTSCAXN0fM1lhifvUcrgQNcmpKJCeB8Bg3p1RT5vUxT4a7Jq9D6ePgMizUA7g==",
     "Name" : "TNT ML10 ",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -938,7 +663,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "MeCQYx6vCXEH011qWKkfhY3IxY0OWrAoCWVTJ1RyMxcUaCUAap9PSw8J9mndQrxe",
+    "Host" : "QCD0URmMpO2SHIkA/f65nNvAKYSW1fkwtjxhjiM0MKZCl4Yp8Os/xBaouxLFpmhD",
     "Name" : "TM FB/IG 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -951,7 +676,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "NslZHNPDrTT6tFFoKXtEB5QwWH3la+AkWdgyPqqnl2PIbD+NMEIm0Miigd4VeX6C",
+    "Host" : "EoPxklUoVyhGhbAtf8RdQZ9b7v/7xip/ibjTsOGvXwsQAqMmZlndTCJ8LAiNyN9H",
     "Name" : "TM FB/IG 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -964,7 +689,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "toN5XlE6RtsAsIEI0yCTtqgtpzTUTQ5OQ5ZJgOkb5VCmWYBjM+GjLTdYpWtOjgnuteIDUa4+iWp5GrBtBlrrz9dHDkhOzmZ16Yo48sbNRIA=",
+    "Host" : "SBkj3yuYludC6bDeQXo+l9EEdrcMedrDGSOui0PJa77jJUR8bpRI2ywmiWn+WWQUAJrWP+x4mqA4MzcHIWc5tPkVjwY2jSErqZ6Pqllf+Wg=",
     "Name" : "SUN NO BLOCK(beta)",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -977,7 +702,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "IH7HMxVjbQPC+ucfOXGq0AnZ2yO8NvBs0d36PkNOIkpvLhxD/Y/0dp30fOHgGcH+sW6zQFSd+5evqxF61LWktJPbBwnJ6Kj+Orl2HLTba+I=",
+    "Host" : "152UMrTZFmb5XSWXeew3+/PU2UEiBeOfM/cP8zMmADKjhyG1rINM7wCaVdW+8v4IOsVdF9it7Gcs9ZNlSMIvWKeuA4LnHNMc7EX0qADPnfI=",
     "Name" : "smart TNT NO LOAD",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -990,7 +715,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "seumzgA4Oqo8B5y+1ZL6+r0Ot8F/whTZsp9XQ/XPu3iCiw9tY+3ByGer8Iyc/ek4DZZQtUHEYAH4ogusWVDiDA==",
+    "Host" : "OF4hREWK1vt8EIl7rzBVYIal1iBroZkAsrlsxLpsjCZr+oynQjUefK3UEf0b71zaXHisJAbO4beJhkjdC2wxSQ==",
     "Name" : "SUN NO LOAD",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -1003,7 +728,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "uC4hJvYWvupcMlOJ6GJJEyNMAkXYUBwaek2BarGng04=",
+    "Host" : "rSuy0QNZx/y0Y2+5ZMIDs5edU0fZjbK4hGwDZd27HGI=",
     "Name" : "SUN TU CTC PROMO(new)",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -1016,7 +741,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "PzLQ/FZFTpfDUksGQvsKqnQ8KEfxTAhWOV44Y40Q2iFFiGnvNvf9sZ1ziNevObJd0sdlUkW2ANoXoViCJIQbcaqVVOOf8lRpmHvEhNyhIoI=",
+    "Host" : "ho8k7Y5PnB62hXaLQ1F7nrZVt8xFJ25AVi1MjDucNJEyvHKoNaeqH90fxBCZIM72ZG/6nqPMzXhmk+QrDv1xzEmeEwLHMD43nkm67Ia+12s=",
     "Name" : "smart at60/sakto30 PROMO",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -1029,7 +754,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "NrOwgprIqmk1Z/hAFI3g7hBhTy325c+oLQ8rit4CbMNvviy9ZbcAlv90EQ/C+FF2",
+    "Host" : "rb1346DGd3gakNkwFBr72wX6B6T4h/a1BOGNiv/zy5t7ti/Gm9uxTbPqy4nc/fNb",
     "Name" : "smart/TNT STORIES PROMO 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -1042,7 +767,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "cFcGvaBXjjf5g1pMF4HODTQboJ9LWvbnvvbNb2XIivAPEL1Q6zqdxj7IRKFpUn4t",
+    "Host" : "Xi2jf6E0MxeUjDm2uezMqCdOm1mtrg3UtjKpftYO/nOFZOU2iaclVBK1QtULl2/4",
     "Name" : "smart/TNT STORIES PROMO 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -1052,12 +777,12 @@
     "Text" : "gigastories promo",
     "UseDefaultProxy" : true
   }, {
-    "Format" : 0,
+    "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "S08ZdVhvFjdeDUlCkQGHmeHm0IiyIZcjCHyP8xF+2OcZf9uMWDhvOsSZxxsU9tZD",
+    "Host" : "ABSPU3ElS4FthneJxU+TRel8Sihy357/O5a0yBf1gAVvbQTL04ffgmwXY69RoB/Y1K+m9MGZK41I6Fn4sy4XfDQ8Jqe2WL+b0U+WejAfVm4=",
     "Name" : "GIGASTORIES TEST 1",
-    "OnlineHost" : false,
+    "OnlineHost" : true,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
@@ -1065,12 +790,38 @@
     "Text" : "",
     "UseDefaultProxy" : true
   }, {
-    "Format" : 0,
+    "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "av92SwMeKzBiV1frXp2p79ABIpyeqwGAB/rHdhHmdL0NrXpGx7Z08AP2pDy1BD2D",
+    "Host" : "Ks0FZZ9SGGiEk/gTTcvwJiGrazK4fS0hIn1Qp2hTzl0sVYn1LuJvQODVsj2YuJYkWTECRpg+hoOeDI908u/X7A==",
     "Name" : "GIGASTORIES TEST 2",
-    "OnlineHost" : false,
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "TmpJqghR9XCbRSUhXszKlGVNFEexlw44B3qwlWryzjJVThzA3PU/KCIZl2SRmCP/GNjzJdSrepesa9dGEDrxTg==",
+    "Name" : "NEW ML10 PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "bVK3fkbO2y1RqMY6Q8V8cyAAeS0Mwlt+u0x873Qt1jXhyvLZhQb7jj0Y2jqost3k",
+    "Name" : "TEST SUN TU/CTC PROMO",
+    "OnlineHost" : true,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
@@ -1081,5 +832,5 @@
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "<strong>Welcome to Armageddon VPN</strong>\n\n\n<strong><br><strong>\nhttps://www.facebook.com/groups/257657638618491/\n</strong><br><br>What's New?</strong><br><br>armageddon apps is back<br><br><br>\n\n<strong>Thanks for the support of Armageddon vpn Team</strong><br><strong>",
-  "Version" : 7.0
+  "Version" : 7.8
 }

@@ -11,12 +11,1582 @@
     "Name" : "PREM GIGA SG 2"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "syd-api
     "DomainOrIP" : "syd-api.twitter.com.premsg3.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PREM GIGA SG 3"
   }, {
     "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg4.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 4"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg5.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 5"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg6.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 6"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg7.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 7"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg8.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 8"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg9.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 9"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "syd-api.twitter.com.premsg10.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREM GIGA SG 10"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem001.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SG 1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem002.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SG 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem003.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SG 3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem004.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SG 4"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem005.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SG 5"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip1.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 1"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip2.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 2"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip3.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 3"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip4.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 4"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip5.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 5"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv1.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv2.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv3.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 3"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv4.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 4"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv5.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 5"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv6.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 6"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv7.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 7"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv8.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 8"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv9.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 9"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv10.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 10"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp1.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp2.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp3.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 3"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp4.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 4"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp5.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 5"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp6.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 6"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp7.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 7"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp8.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 8"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp9.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 9"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp10.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 10"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privph1.zero-vpn.xyz",
+    "Flag" : "ph",
+    "Name" : "PRIVATE PH 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.privph.armatelco-vpn.xyz",
+    "Flag" : "ph",
+    "Name" : "PRIVATE PH 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem001.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem002.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem003.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem004.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 4"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem005.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 5"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus1.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 1"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus2.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 2"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus3.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 3"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus4.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 4"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus5.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 5"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus6.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 6"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus7.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 7"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus8.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 8"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus9.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 9"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus10.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 10"
+  } ],
+  "Payloads" : [ {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "KBB8mV7qv0A+W0O2qhp6z1mgDfwY6/dln8Kb4W+y13s=",
+    "Name" : "NEW SUN TU/CTC 1",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "kpkG/r9vrZWjDrzoI8fbItwpIcqAFiO4r4Rbo0dBIqY=",
+    "Name" : "NEW SUN TU/CTC 2",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "WkE9ZBzQSDF5ePxB00INsujnNdKwE0VWPm6esEKrwiY=",
+    "Name" : "NEW SUN TU/CTC 3",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "vSy3ogsjY1ZQzxCS9VuT1QrIc1hLdgVI3ZRZzbm6uMUXP5Mp5SZGDZQ5hxM5+5/sMv0Ypkjt9hzT8NPUcuQosA==",
+    "Name" : "SUN PLAN ULTIMATE 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "IB8OpvOj9QiPvopTsgvk5tXeRkL5gYiaRRUuFam+NWJD6Xr/xa2gpF8JsYQtCfxpqzwioSbObeic/yH6FhAPQw==",
+    "Name" : "SUN PLAN ULTIMATE 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "/vDGbHUQtE53iIAwi6qz/fLxGtFR8Mcyb5eze2iEVWrSbPmMNwdDdQ4NB8U+uehb01Jzh3TY/tw1+rpnM9FV4Vf8D7xSsBRicHv9SRhwz7bJGEZ0P7n70KfoOh9vcBuW",
+    "Name" : "SUN PLAN ULTIMATE 3",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "uyxZ5EYByUzYiUYkhgZWx7JLO9U9YfofzgUnuWTnxgY3F4Kpk5vqxz7KQhV5l7pJpz2WPj15/+22+FqVO4EE/zdPKE9AA+npjAODEyPFenA=",
+    "Name" : "SUN PLAN ULTIMATE 4",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "ija4MgmJYqyxYVGpFgoVFoJRnf535zc8bO+q4HGm0tvQ07/e1HaZMqNb7tJKB1UpaL9JtfrzMFjSs2x5yi6YFg==",
+    "Name" : "GTM GOWATCH PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "iXdp5AwqQN9mabRp3JDpS7UhW95yyiA73vJ2vAGWGNEuR7qp8nj8uGrBNsqNk8l8kdTPApYArsgifcgkJOhdw1y8ubz71WE+QaJNXVrnBX7p8COjzixflrLc2RROnjlmGSnAjFemLDAKMn8JpIrXkX1bnY44A7mb+eQfe8ty5FbSs4h41+WLInEj2a7WCxpEQcIwsZkr7PFc+MVbx7YE0zfh4DDMKae650Q+qhcwgfzxc2bgmRULw91blwpzSxaecMh7+7PZk1vL3sj3t0vWPLgv3Q8JDJZSG7ISp2XiNTjE5TEb+QPtsRfMgKmJYwomup8W5KBVdCvLZ2JQc5msZE3nH3ma/BeePV5cXFJGiSWanPhA5Jhp6anm6Pji4MnDnDXvUFYdtAmCInw0oiyheKBDLbwZ86Cgw1cTseZhG9xKWPBZwby+TNvfYBJyVp4RiKUYTkRwz0RxQHfF4Y0iC6dZA6GXQU56HEF2kuu7N5FwEyTtrQuIssstTKob9dM5go3uB2jIW75C+cjOD/CBo4B/573RcWFUjd51DzOBXmOs/Qizfyzaczax7HLOMm5dlJKMNAIYgju3W8TMNr69u4UHBzNEWxUQMqDxHUP8y7s=",
+    "Name" : "GTM GOWATCH PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "YDOksNZiGDlD7tc2HFYQGlTceA+NCYmUI0EzFasNQ7uuXZK3nOu8vArnc4dSFhOs2rkjvRQH4AUS9WcRTL4WKAKL+xR9rwVI8nG6IWoUKBBWEYfFI2JR2rHnOdqNEMW+jx5Tnq/qhqO/OLnphRw0p8pUWE9VakQNJIzqEwM281cLsbXYaPsHbM9iDeXmaC3JZ+9tan6PJikkAeY2zbPO3V8FZD7QiPHTJ8n0KGnXQRdRCQvkhzAY/boqwk/nLVcra+wn5XfsMyGI/1qLeLHgjjcENtMxRjyj7djDMylUM/VUiOHoRSfa/BgFZ+XnG9NphowyO4tlFaYr3vhVv+Sb3xqk1aY91QKFDqt4rTP155O5kHg/MWqHvzwPR1inUD0YHneD4zwslraeF1Sf/chz9JlqxYAbbSSsoomXXW5BmsLNPTl9VVN+jnjzAIIqfPIqDsP9KjYwMvaexq77HT0GB3bWExmY2DIGV6gIn6NcwEq+X59J6Kt244MXVQDGlaCgKOcnFZIVhfgmcA82ZK8Jk5GwHfHvHWbXazq8mVHyOnliRb7AoZ9jYMlsKwlQH9s8oWGSAc90I5X2rCOKvBd5gOjxyVkAsGDTBtGDK1hZ27c=",
+    "Name" : "GLOBE or TM PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "8syogEqsSh0aVrIh//RmOyOSVHXDHRcHi/R1NtrBHdzjJE3NNNlf5a5VRDB2x8XT",
+    "Name" : "GLOBE or TM PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "3xkeXi9vj+7MgZY3WD8CSYuwc9KpkV0M7e5G6nnuYSJ/IKJ41YX9tdo8Arb2L6EO",
+    "Name" : "NEW SUN/SMART PROMO",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : " ",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "Ya3yO7i5cMAoep1fxIJRyHZ3TTGOfbFUYZpJM/M+qQmoT536XLBurC3E9mv+/Nz8+902vUbRGojygmMyhj8Q4Q==",
+    "Name" : "NEW SUN TU PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "koP4YvrF45KgqyprPCJyw5z6A7y479XgaoFHLOdkJwBTpXrcVzENrf2ZTxxgSB/AEG59vpJRE4rNFJf45Mx9gO2Sfpmnq7wzS5yvFZV/BTcKiSRgGCqKmh7OfWuvz91b",
+    "Name" : "NEW SUN TU PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "fwHN+a+sEnP57MIKQ91LGM+9TUctSK+robUQ37GAlssQ12hR2xgrCblT0AwHuZpl",
+    "Name" : "GIGASURF PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "Qq/arPhXa0pPQ/MuKvgYUqJkJcC85eL2hgRiKgerXA+WsoXKtx89GeSlzZAhwm62",
+    "Name" : "GIGASURF PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "eoL0wINV9n7/7ut5Mt0abzw0Tcora78DcPRWolbV9xFEnnMiusJjgSG+Equ5XAB+",
+    "Name" : "GIGASURF PROMO 3",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "qcOUHzPZVuIfa5fdK/3s1Mm3zkWZ1BUZunYZCpRp8saiq3Yv3UZZkJyR+LBTXXVk7xxSHiDDDpYBoAiUeiOnBpP/Xx2FDw+KPegELWZpqhg=",
+    "Name" : "GIGASURF PROMO 4",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "DiY4JPvhflun5YDyjpnDH5ar3mmVVapSvpyitdMAVNW45Cv3wmiq4+4wEAS4tT8WvpRpnPald52J4Av3KhxG5vofMOyK503qW7sxd55gAxZ5/mCnZ0LMIx9goER2Gsvk",
+    "Name" : "SUN NO PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "claim 1gb free maintain 10 peso load",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "dbg/W0ZVb88me35QhepxqdxG5CinbbuYKwHlb8Kc9ZzTzmI/EKs5XI4vxMCvgi3S",
+    "Name" : "SUN NO PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "MYE4tCOsEnPak+5GFgxEjp8ppFXVhxvunwfZxv0t4s46cIUQj77BNoU1ATugb+Yx",
+    "Name" : "SUN NO PROMO 3",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "BMGGb2zcZCa3+h5DOXUPH0gAt9vH2FwiOProMRMU0kubi4qIY4fIizaGRlfdW2sAxDJXTpR56xj3cDdpwpo7pA==",
+    "Name" : "SUN PLAN/CTC/TU",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "bxy8KW+67T/NZCTqAJnpJNT0fwV6NgVISTmBr73HjQpjigo45h5EsUy+S9Tw8lZTV4WKYgTJq/jaXQSlV3i+Iw==",
+    "Name" : "SMART/TNT PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "gNV8yj11/mPxd/c9sQew74sCL7XpWhCXoU0S1Yw0DtV5nf8TfoN4kOV61olS9uxbidRzdd67zuOWnfm7p6qJVQ==",
+    "Name" : "SMART/TNT PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "ML10 + GAANSURF10 send to 4545",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "tLok506m+VtvAIWl9RLtord+yJNtPFgVaeQrExC8sE35frmnZ/oMIkagkvDh+6iS",
+    "Name" : "SUN TU200 PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "2kODRGYpoZ47pIGHfy83AHzcU6sSiZ/RXZADX8s982+wLfYDXtMklQLv+UyZ1NOm",
+    "Name" : "SUN TU200 PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "0PQzRWVGzvXvfeUkuwdwujlkNOTR3Ka6XJipRG2GCX9v/6DmR/O3rb6bRcgC4ZllRZLpQdtIDrBg/n8f83pxShsDggwKshQFVHIGZFOze1o=",
+    "Name" : "SMART AT10/60 PROMO",
+    "OnlineHost" : true,
+    "Port" : 800,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "HvcG+IMsxQtE4e6tSCjRiFnvWSDKd0/GUi6uoMwEag3YacpgXNQaE63kG3D3o9nRU/XXoTiTr9TAf5QrY3bZQI//GH+TB4SScBsRtjSNDTPHKNqFFESlwM9LjAfOhGji0qq/EanZySC1NpUyz69QxQ==",
+    "Name" : "TNT ML10 ",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "/3CFZ6DdXgZhJ8DKjWtXnrJCd1MIrGdtLkGPGO7GOvZ5GpxvmjWPdnPsXGrqO0bG",
+    "Name" : "TM FB/IG 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Registered tm promo 20 up to get free 1gb daily",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "jMK0hI3nOKNRKYyOlCOwbpkLjAyy03IdasiX03ZIVqRlzhaOEkiqBw8uyfCEmEYa",
+    "Name" : "TM FB/IG 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "9zrE86qUAOJSs9NBEIrYwRuXnqjpaxJ2ZawJ8REcfPV2M8ilQsmpAGUhLV7Qhmh1OnRRAFTKsmSWNMRnekVN6jRmC2zD3JFy4Q/jW+5v5bA=",
+    "Name" : "SUN NO BLOCK(beta)",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "ZYR4ZpAAC6FmWYFlml/Y0Dcaiq0x0ET4ElxbTEp8fTr5OpDmbqCM5dzSwibLNz+wmTS96QJbd8bGq+F8/SdtId5nKZyddU1jN+++cagkUuM=",
+    "Name" : "smart TNT NO LOAD",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "VAl2n5GWSG61y1Dvg6nNXyDkmUAojyyhemtCJG6IOlr/CE/mnkji64mOKuJSaA6UVXKZ/czCYCmXUWbX68q9LA==",
+    "Name" : "SUN NO LOAD",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "CRSumh8JA6brtSuAimZGD0Y2qeR+P8kpoAlCa1nBNbI=",
+    "Name" : "SUN TU CTC PROMO(new)",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "CYH/TxdCw/5CznSz5Ncvf055e879ytA/YgT1H4AgmNwCpntqGBlIwFFLLrbxAYe5qRK6s2un+WLcSNLj5rQpZ/4ppBxGmij3Ufw1GPvpb1M=",
+    "Name" : "smart at60/sakto30 PROMO",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "BXW/GzijTEVdQq1m66MPfPGQIqhkvu7e5e6hTyeR+5imy9k/+60i1Sbl6XLrGxfr",
+    "Name" : "smart/TNT STORIES PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "smart gigastories promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "xQcjjZipT1z9JXwgMZuqRdYfE6kA7yJKPZzbbsmTE/wH8rqI/kanlrUQrzzppI8H",
+    "Name" : "smart/TNT STORIES PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "gigastories promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "LQcWLut6O2Nbkfb2NMIMutRJDzeR7Ai5HkL73sXE2DoMFIpq453+a4XQPESpGCriY8AhJXKgHMUvUMmbpnG+6/R6m0YdjcEi6hG4YjFl7Hc=",
+    "Name" : "GIGASTORIES TEST 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "BsAe/mwtdUxMu9yYglAfTjmP9BZ1fn76F96u9BftCXkLh9lQBUyGaHZmDjx1FGnEpP3MCYB2I3E8mzLuMKG1KQ==",
+    "Name" : "GIGASTORIES TEST 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "OqzLq4RdSTPTbk2wpl0o0hid/MyA6NJVOlyLxocPfRLUflXRQvBalCJ6tn+3geEZ3sbfdNZSsQvw5NovsT7BZA==",
+    "Name" : "NEW ML10 PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "wVhsc8kInbWQ02q01gc7NtfARNFP+bUkdJjrMfgxw3dvPqKtzuBPqywE+fG8mhCX",
+    "Name" : "TEST SUN TU/CTC PROMO",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  } ],
+  "GuiCategories" : true,
+  "GuiFlags" : true,
+  "Changelogs" : "<strong>Welcome to Armtelco VPN</strong>\n\n\n<strong><br><strong>\nhttps://www.facebook.com/groups/257657638618491/\n</strong><br><br>What's New?</strong><br><br>fix fix online update<br><br><br>\n\n<strong>Thanks for the support of Armtelco vpn Team</strong><br><strong>",
+  "Version" : 9.2
+}
+    "DomainOrIP" : "api-stream.twitter.com.prem003.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SG 3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem004.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SG 4"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem005.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SG 5"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip1.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 1"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip2.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 2"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip3.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 3"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip4.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 4"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "syd-api.twitter.com.vip5.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "VIP GIGA SG 5"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv1.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv2.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv3.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 3"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv4.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 4"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv5.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 5"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv6.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 6"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv7.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 7"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv8.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 8"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv9.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 9"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.priv10.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GIGA SG 10"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp1.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp2.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp3.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 3"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp4.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 4"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp5.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 5"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp6.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 6"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp7.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 7"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp8.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 8"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp9.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 9"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privjp10.zero-vpn.xyz",
+    "Flag" : "jp",
+    "Name" : "PRIVATE JAPAN 10"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "syd-api.twitter.com.privph1.zero-vpn.xyz",
+    "Flag" : "ph",
+    "Name" : "PRIVATE PH 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.privph.armatelco-vpn.xyz",
+    "Flag" : "ph",
+    "Name" : "PRIVATE PH 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem001.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem002.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem003.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem004.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 4"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.prem005.zero-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "PREMIUM SINGAPORE 5"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus1.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 1"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus2.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 2"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus3.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 3"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus4.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 4"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus5.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 5"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus6.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 6"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus7.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 7"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus8.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 8"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus9.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 9"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vipus10.zero-vpn.xyz",
+    "Flag" : "us",
+    "Name" : "VIP UNITED STATES 10"
+  } ],
+  "Payloads" : [ {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "KBB8mV7qv0A+W0O2qhp6z1mgDfwY6/dln8Kb4W+y13s=",
+    "Name" : "NEW SUN TU/CTC 1",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "kpkG/r9vrZWjDrzoI8fbItwpIcqAFiO4r4Rbo0dBIqY=",
+    "Name" : "NEW SUN TU/CTC 2",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "WkE9ZBzQSDF5ePxB00INsujnNdKwE0VWPm6esEKrwiY=",
+    "Name" : "NEW SUN TU/CTC 3",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "vSy3ogsjY1ZQzxCS9VuT1QrIc1hLdgVI3ZRZzbm6uMUXP5Mp5SZGDZQ5hxM5+5/sMv0Ypkjt9hzT8NPUcuQosA==",
+    "Name" : "SUN PLAN ULTIMATE 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "IB8OpvOj9QiPvopTsgvk5tXeRkL5gYiaRRUuFam+NWJD6Xr/xa2gpF8JsYQtCfxpqzwioSbObeic/yH6FhAPQw==",
+    "Name" : "SUN PLAN ULTIMATE 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "/vDGbHUQtE53iIAwi6qz/fLxGtFR8Mcyb5eze2iEVWrSbPmMNwdDdQ4NB8U+uehb01Jzh3TY/tw1+rpnM9FV4Vf8D7xSsBRicHv9SRhwz7bJGEZ0P7n70KfoOh9vcBuW",
+    "Name" : "SUN PLAN ULTIMATE 3",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "uyxZ5EYByUzYiUYkhgZWx7JLO9U9YfofzgUnuWTnxgY3F4Kpk5vqxz7KQhV5l7pJpz2WPj15/+22+FqVO4EE/zdPKE9AA+npjAODEyPFenA=",
+    "Name" : "SUN PLAN ULTIMATE 4",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "ija4MgmJYqyxYVGpFgoVFoJRnf535zc8bO+q4HGm0tvQ07/e1HaZMqNb7tJKB1UpaL9JtfrzMFjSs2x5yi6YFg==",
+    "Name" : "GTM GOWATCH PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "iXdp5AwqQN9mabRp3JDpS7UhW95yyiA73vJ2vAGWGNEuR7qp8nj8uGrBNsqNk8l8kdTPApYArsgifcgkJOhdw1y8ubz71WE+QaJNXVrnBX7p8COjzixflrLc2RROnjlmGSnAjFemLDAKMn8JpIrXkX1bnY44A7mb+eQfe8ty5FbSs4h41+WLInEj2a7WCxpEQcIwsZkr7PFc+MVbx7YE0zfh4DDMKae650Q+qhcwgfzxc2bgmRULw91blwpzSxaecMh7+7PZk1vL3sj3t0vWPLgv3Q8JDJZSG7ISp2XiNTjE5TEb+QPtsRfMgKmJYwomup8W5KBVdCvLZ2JQc5msZE3nH3ma/BeePV5cXFJGiSWanPhA5Jhp6anm6Pji4MnDnDXvUFYdtAmCInw0oiyheKBDLbwZ86Cgw1cTseZhG9xKWPBZwby+TNvfYBJyVp4RiKUYTkRwz0RxQHfF4Y0iC6dZA6GXQU56HEF2kuu7N5FwEyTtrQuIssstTKob9dM5go3uB2jIW75C+cjOD/CBo4B/573RcWFUjd51DzOBXmOs/Qizfyzaczax7HLOMm5dlJKMNAIYgju3W8TMNr69u4UHBzNEWxUQMqDxHUP8y7s=",
+    "Name" : "GTM GOWATCH PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "YDOksNZiGDlD7tc2HFYQGlTceA+NCYmUI0EzFasNQ7uuXZK3nOu8vArnc4dSFhOs2rkjvRQH4AUS9WcRTL4WKAKL+xR9rwVI8nG6IWoUKBBWEYfFI2JR2rHnOdqNEMW+jx5Tnq/qhqO/OLnphRw0p8pUWE9VakQNJIzqEwM281cLsbXYaPsHbM9iDeXmaC3JZ+9tan6PJikkAeY2zbPO3V8FZD7QiPHTJ8n0KGnXQRdRCQvkhzAY/boqwk/nLVcra+wn5XfsMyGI/1qLeLHgjjcENtMxRjyj7djDMylUM/VUiOHoRSfa/BgFZ+XnG9NphowyO4tlFaYr3vhVv+Sb3xqk1aY91QKFDqt4rTP155O5kHg/MWqHvzwPR1inUD0YHneD4zwslraeF1Sf/chz9JlqxYAbbSSsoomXXW5BmsLNPTl9VVN+jnjzAIIqfPIqDsP9KjYwMvaexq77HT0GB3bWExmY2DIGV6gIn6NcwEq+X59J6Kt244MXVQDGlaCgKOcnFZIVhfgmcA82ZK8Jk5GwHfHvHWbXazq8mVHyOnliRb7AoZ9jYMlsKwlQH9s8oWGSAc90I5X2rCOKvBd5gOjxyVkAsGDTBtGDK1hZ27c=",
+    "Name" : "GLOBE or TM PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "8syogEqsSh0aVrIh//RmOyOSVHXDHRcHi/R1NtrBHdzjJE3NNNlf5a5VRDB2x8XT",
+    "Name" : "GLOBE or TM PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "3xkeXi9vj+7MgZY3WD8CSYuwc9KpkV0M7e5G6nnuYSJ/IKJ41YX9tdo8Arb2L6EO",
+    "Name" : "NEW SUN/SMART PROMO",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : " ",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "Ya3yO7i5cMAoep1fxIJRyHZ3TTGOfbFUYZpJM/M+qQmoT536XLBurC3E9mv+/Nz8+902vUbRGojygmMyhj8Q4Q==",
+    "Name" : "NEW SUN TU PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "koP4YvrF45KgqyprPCJyw5z6A7y479XgaoFHLOdkJwBTpXrcVzENrf2ZTxxgSB/AEG59vpJRE4rNFJf45Mx9gO2Sfpmnq7wzS5yvFZV/BTcKiSRgGCqKmh7OfWuvz91b",
+    "Name" : "NEW SUN TU PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "fwHN+a+sEnP57MIKQ91LGM+9TUctSK+robUQ37GAlssQ12hR2xgrCblT0AwHuZpl",
+    "Name" : "GIGASURF PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "Qq/arPhXa0pPQ/MuKvgYUqJkJcC85eL2hgRiKgerXA+WsoXKtx89GeSlzZAhwm62",
+    "Name" : "GIGASURF PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "eoL0wINV9n7/7ut5Mt0abzw0Tcora78DcPRWolbV9xFEnnMiusJjgSG+Equ5XAB+",
+    "Name" : "GIGASURF PROMO 3",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "qcOUHzPZVuIfa5fdK/3s1Mm3zkWZ1BUZunYZCpRp8saiq3Yv3UZZkJyR+LBTXXVk7xxSHiDDDpYBoAiUeiOnBpP/Xx2FDw+KPegELWZpqhg=",
+    "Name" : "GIGASURF PROMO 4",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "DiY4JPvhflun5YDyjpnDH5ar3mmVVapSvpyitdMAVNW45Cv3wmiq4+4wEAS4tT8WvpRpnPald52J4Av3KhxG5vofMOyK503qW7sxd55gAxZ5/mCnZ0LMIx9goER2Gsvk",
+    "Name" : "SUN NO PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "claim 1gb free maintain 10 peso load",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "dbg/W0ZVb88me35QhepxqdxG5CinbbuYKwHlb8Kc9ZzTzmI/EKs5XI4vxMCvgi3S",
+    "Name" : "SUN NO PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "MYE4tCOsEnPak+5GFgxEjp8ppFXVhxvunwfZxv0t4s46cIUQj77BNoU1ATugb+Yx",
+    "Name" : "SUN NO PROMO 3",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "BMGGb2zcZCa3+h5DOXUPH0gAt9vH2FwiOProMRMU0kubi4qIY4fIizaGRlfdW2sAxDJXTpR56xj3cDdpwpo7pA==",
+    "Name" : "SUN PLAN/CTC/TU",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "bxy8KW+67T/NZCTqAJnpJNT0fwV6NgVISTmBr73HjQpjigo45h5EsUy+S9Tw8lZTV4WKYgTJq/jaXQSlV3i+Iw==",
+    "Name" : "SMART/TNT PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "gNV8yj11/mPxd/c9sQew74sCL7XpWhCXoU0S1Yw0DtV5nf8TfoN4kOV61olS9uxbidRzdd67zuOWnfm7p6qJVQ==",
+    "Name" : "SMART/TNT PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "ML10 + GAANSURF10 send to 4545",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "tLok506m+VtvAIWl9RLtord+yJNtPFgVaeQrExC8sE35frmnZ/oMIkagkvDh+6iS",
+    "Name" : "SUN TU200 PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "2kODRGYpoZ47pIGHfy83AHzcU6sSiZ/RXZADX8s982+wLfYDXtMklQLv+UyZ1NOm",
+    "Name" : "SUN TU200 PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "0PQzRWVGzvXvfeUkuwdwujlkNOTR3Ka6XJipRG2GCX9v/6DmR/O3rb6bRcgC4ZllRZLpQdtIDrBg/n8f83pxShsDggwKshQFVHIGZFOze1o=",
+    "Name" : "SMART AT10/60 PROMO",
+    "OnlineHost" : true,
+    "Port" : 800,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "HvcG+IMsxQtE4e6tSCjRiFnvWSDKd0/GUi6uoMwEag3YacpgXNQaE63kG3D3o9nRU/XXoTiTr9TAf5QrY3bZQI//GH+TB4SScBsRtjSNDTPHKNqFFESlwM9LjAfOhGji0qq/EanZySC1NpUyz69QxQ==",
+    "Name" : "TNT ML10 ",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "/3CFZ6DdXgZhJ8DKjWtXnrJCd1MIrGdtLkGPGO7GOvZ5GpxvmjWPdnPsXGrqO0bG",
+    "Name" : "TM FB/IG 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Registered tm promo 20 up to get free 1gb daily",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "jMK0hI3nOKNRKYyOlCOwbpkLjAyy03IdasiX03ZIVqRlzhaOEkiqBw8uyfCEmEYa",
+    "Name" : "TM FB/IG 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "9zrE86qUAOJSs9NBEIrYwRuXnqjpaxJ2ZawJ8REcfPV2M8ilQsmpAGUhLV7Qhmh1OnRRAFTKsmSWNMRnekVN6jRmC2zD3JFy4Q/jW+5v5bA=",
+    "Name" : "SUN NO BLOCK(beta)",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "ZYR4ZpAAC6FmWYFlml/Y0Dcaiq0x0ET4ElxbTEp8fTr5OpDmbqCM5dzSwibLNz+wmTS96QJbd8bGq+F8/SdtId5nKZyddU1jN+++cagkUuM=",
+    "Name" : "smart TNT NO LOAD",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "VAl2n5GWSG61y1Dvg6nNXyDkmUAojyyhemtCJG6IOlr/CE/mnkji64mOKuJSaA6UVXKZ/czCYCmXUWbX68q9LA==",
+    "Name" : "SUN NO LOAD",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "CRSumh8JA6brtSuAimZGD0Y2qeR+P8kpoAlCa1nBNbI=",
+    "Name" : "SUN TU CTC PROMO(new)",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "CYH/TxdCw/5CznSz5Ncvf055e879ytA/YgT1H4AgmNwCpntqGBlIwFFLLrbxAYe5qRK6s2un+WLcSNLj5rQpZ/4ppBxGmij3Ufw1GPvpb1M=",
+    "Name" : "smart at60/sakto30 PROMO",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "BXW/GzijTEVdQq1m66MPfPGQIqhkvu7e5e6hTyeR+5imy9k/+60i1Sbl6XLrGxfr",
+    "Name" : "smart/TNT STORIES PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "smart gigastories promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "xQcjjZipT1z9JXwgMZuqRdYfE6kA7yJKPZzbbsmTE/wH8rqI/kanlrUQrzzppI8H",
+    "Name" : "smart/TNT STORIES PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "gigastories promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "LQcWLut6O2Nbkfb2NMIMutRJDzeR7Ai5HkL73sXE2DoMFIpq453+a4XQPESpGCriY8AhJXKgHMUvUMmbpnG+6/R6m0YdjcEi6hG4YjFl7Hc=",
+    "Name" : "GIGASTORIES TEST 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "BsAe/mwtdUxMu9yYglAfTjmP9BZ1fn76F96u9BftCXkLh9lQBUyGaHZmDjx1FGnEpP3MCYB2I3E8mzLuMKG1KQ==",
+    "Name" : "GIGASTORIES TEST 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "OqzLq4RdSTPTbk2wpl0o0hid/MyA6NJVOlyLxocPfRLUflXRQvBalCJ6tn+3geEZ3sbfdNZSsQvw5NovsT7BZA==",
+    "Name" : "NEW ML10 PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "wVhsc8kInbWQ02q01gc7NtfARNFP+bUkdJjrMfgxw3dvPqKtzuBPqywE+fG8mhCX",
+    "Name" : "TEST SUN TU/CTC PROMO",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  } ],
+  "GuiCategories" : true,
+  "GuiFlags" : true,
+  "Changelogs" : "<strong>Welcome to Armtelco VPN</strong>\n\n\n<strong><br><strong>\nhttps://www.facebook.com/groups/257657638618491/\n</strong><br><br>What's New?</strong><br><br>fix fix online update<br><br><br>\n\n<strong>Thanks for the support of Armtelco vpn Team</strong><br><strong>",
+  "Version" : 9.2
+}
     "DomainOrIP" : "syd-api.twitter.com.premsg4.zero-vpn.xyz",
     "Flag" : "sg",
     "Name" : "PREM GIGA SG 4"
